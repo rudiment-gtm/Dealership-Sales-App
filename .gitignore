@@ -1,0 +1,7 @@
+node_modules/
+backend/dealership.db
+backend/dealership.db-shm
+backend/dealership.db-wal
+frontend/build/
+.env
+.DS_Store
